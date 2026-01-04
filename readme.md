@@ -70,12 +70,10 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public
 You should have received a copy of the GNU General Public License along with JmsToolkitWebApplication.  If not, see <http://www.gnu.org/licenses/>.
 
 ## GitHub repository: ##
-#### https://github.com/Gabotto/JmsToolkitWebApplication ####
+#### https://github.com/gabo-gil-playground/JmsToolkitWebApplication ####
 ## Contact ##
 Let me know if you have any problem, comment or new ideas:
-#### Upwork: https://www.upwork.com/o/profiles/users/_~01b674725ab8f5ce8e/ ####
-#### Wordpress: http://gabelopment.wordpress.com/ ####
-#### Email: gabelopment@gmail.com ####
+#### Wordpress: http://somedevnotes.wordpress.com/ ####
 
 Edited on: 4th June 2017
  
